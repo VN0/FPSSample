@@ -145,3 +145,4 @@ Check out the [Documentation](Documentation/) folder for more information. In pa
 Our intention is that you can use everything in this project as a starting
 point or as bits and pieces in your own Unity games. For the legal words, see
 [LICENSE.md](LICENSE.md).
+Powered by VL
